@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		FC25660429989A6800D67B83 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC25660329989A6800D67B83 /* main.swift */; };
+		FC25660B29989A7900D67B83 /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC25660A29989A7900D67B83 /* Cell.swift */; };
+		FC25660D29989ADF00D67B83 /* Screen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC25660C29989ADF00D67B83 /* Screen.swift */; };
+		FC25660F29989B3300D67B83 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC25660E29989B3300D67B83 /* Product.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		FC25660029989A6800D67B83 /* Homework04 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Homework04; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC25660329989A6800D67B83 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		FC25660A29989A7900D67B83 /* Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
+		FC25660C29989ADF00D67B83 /* Screen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen.swift; sourceTree = "<group>"; };
+		FC25660E29989B3300D67B83 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				FC25660329989A6800D67B83 /* main.swift */,
+				FC25660A29989A7900D67B83 /* Cell.swift */,
+				FC25660C29989ADF00D67B83 /* Screen.swift */,
+				FC25660E29989B3300D67B83 /* Product.swift */,
 			);
 			path = Homework04;
 			sourceTree = "<group>";
@@ -121,6 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FC25660429989A6800D67B83 /* main.swift in Sources */,
+				FC25660F29989B3300D67B83 /* Product.swift in Sources */,
+				FC25660B29989A7900D67B83 /* Cell.swift in Sources */,
+				FC25660D29989ADF00D67B83 /* Screen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
